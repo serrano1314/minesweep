@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1581354528 source:c:\users\serra_000\desktop\comprog\virusgame\main.c
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"gotoxy.h"
+	"colorfunc.h"
+	"validate_func.h"
+
+1573895202 c:\users\serra_000\desktop\comprog\virusgame\gotoxy.h
+	<windows.h>
+
+1581004208 c:\users\serra_000\desktop\comprog\virusgame\colorfunc.h
+	<windows.h>
+
+1580544097 c:\users\serra_000\desktop\comprog\virusgame\validate_func.h
+
+1386331778 c:\users\serra_000\desktop\comprog\virusgame\conio2.h
+	<conio.h>
+	<windows.h>
+
